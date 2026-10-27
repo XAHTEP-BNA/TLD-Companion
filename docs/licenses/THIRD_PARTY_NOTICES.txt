@@ -1,0 +1,6 @@
+TLD Companion — Alpha 1, by XAHTEP.
+Unofficial fan project; not affiliated with or endorsed by Hinterland Studio.
+The Long Dark and original game artwork, localized text and narrative belong to Hinterland Studio and their respective rights holders. No ownership of those materials is claimed.
+Project-created interface, backgrounds, journal and artwork are used under the Owner's authorization. This notice is not a grant of rights to unrelated third-party material.
+Third-party code/font licenses and original notices are included in this directory: React, React DOM, Scheduler (MIT); Golos Text and NeverSmile (SIL OFL 1.1); DejaVu; Nozhik author/use notice.
+Companion does not contain game binaries or install mods. Console/gameplay behavior has not been runtime-verified on the target game build.
