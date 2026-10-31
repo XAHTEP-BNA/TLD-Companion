@@ -1,44 +1,32 @@
-# TLD Companion — Alpha 1
+# TLD Companion — Beta
 
-RU/EN offline companion for **The Long Dark Survival, v2.55 / build 181032 S**. By **XAHTEP**.
+Offline RU/EN companion for The Long Dark Survival Mode, by XAHTEP.
 
-![TLD Companion Alpha 1](media/TLD-Companion-Alpha1-Advertising-Poster.png)
+**Current recommended release: Beta.**
 
-[Открыть / Open website](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать / Download Alpha 1](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/alpha-1) · [Обратная связь / Feedback](https://github.com/XAHTEP-BNA/TLD-Companion/issues)
+- [Download Beta ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip)
+- [Open Companion in your browser](https://xahtep-bna.github.io/TLD-Companion/)
+- [Beta release and SHA-256](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/beta)
+- [Изменения RU](PATCH_NOTES_RU.md) · [Patch notes EN](PATCH_NOTES_EN.md)
 
-## Русский
+## Features
 
-Неофициальный фанатский справочник для Windows PC: 506 идентичностей предметов, 491 строка каталога, 7 категорий и 41 подкатегория. Варианты семейства переключаются внутри записи. Поиск работает на русском и английском; доступны характеристики, связанные предметы, избранное и история.
+- Bilingual Survival catalog: 523 item records, stable identities, original artwork and source-backed facts.
+- 59 Console entities with protected command generation and Copy.
+- Aurora Terminal Favorites and actual Item/Command/Map history on Home.
+- Survivor’s Atlas with original maps, zoom/pan, Focus and Paper/Original modes.
+- Offline Console Setup instructions and RU/EN interface.
 
-Консоль содержит 59 сущностей и 105 исходных форм команд. Неподтверждённые действия сохраняют блокировки. Готовую команду можно скопировать; Companion не выполняет её в игре. Пункт **«Установка консоли»** открывает руководство в Passport.
+Extract the entire ZIP and open `index.html` in Chrome or Edge. No server, installation or internet is required for local use. External documentation links open only on demand. Saves use the current browser’s local storage.
 
-**Запуск:** откройте сайт либо скачайте единственный `TLD-Companion-Alpha-1.zip`, полностью распакуйте его и откройте `index.html` в актуальном Chrome или Edge. Сервер, установка приложения и интернет для локального просмотра не нужны. Не запускайте HTML прямо из окна ZIP. Сайт и архив используют одинаковый комплект runtime-файлов.
+## Scope and credits
 
-**Совместимость:** данные рассчитаны на Survival 2.55, build 181032 S. Mobile и Wintermute не входят в целевой контракт. Для выполнения команд в самой игре нужны отдельно устанавливаемые моды; ссылка на актуальную документацию приведена в руководстве. Совместимость всей комбинации модов и gameplay-эффекты не проверялись игровыми runtime-тестами.
+Unofficial fan project, not affiliated with Hinterland. Baseline game data remain source-backed; 17 confirmed 2.58 items are admitted, but full 2.58 compatibility is not claimed. Some commands remain restricted and have not been runtime-tested. No Iron Road maps are included. Source maps retain their original legends and version labels.
 
-**Ограничения Alpha:** отдельные сведения и местонахождения остаются неизвестными; для них не создавались вымышленные значения. Для одной записки отсутствует исходное изображение. Некоторые действия консоли недоступны. Дробные аргументы и текстовые токены сохраняют документированные ограничения. Избранное, история и настройки сохраняются локально в браузере; сайт и `file://` имеют раздельное хранилище. Буфер обмена зависит от разрешений браузера; строку команды можно выделить вручную.
+Map credits: HokuOwl ([Steam](https://steamcommunity.com/profiles/76561198212232496), [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3255435617)) and Krueger ([Steam](https://steamcommunity.com/profiles/76561198054890338), [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2899955301)). Author links are also available offline in Guide. Font and dependency notices are included in `licenses/`.
 
-## English
+## Previous release
 
-An unofficial Windows PC reference with 506 item identities, 491 catalog rows, 7 categories and 41 subcategories. Family variants share a catalog entry. Includes bilingual search, applicable stats, related entries, favorites and recent history.
+[Alpha 1 — historical release](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/alpha-1) remains available with its original tag/archive. Beta is the recommended version.
 
-The Console has 59 entities and 105 source command forms. Unsupported actions remain gated. Copy transfers the prepared command; Companion never runs it in the game. **Console Setup** opens the installation guide in Passport.
-
-**Run:** open the website, or download the single `TLD-Companion-Alpha-1.zip`, extract the entire archive and open `index.html` in current Chrome or Edge. The offline app needs no server, installation or network access. Do not open HTML inside the ZIP viewer. Website and archive use the same runtime files.
-
-**Compatibility:** data targets Survival v2.55 / build 181032 S. Mobile and Wintermute are outside the target scope. Executing commands in the game requires separately installed mods; consult the linked documentation. The complete mod combination and gameplay effects have not been runtime-tested.
-
-**Alpha limitations:** some content/acquisition details remain unknown; no substitute facts are invented. One note lacks source artwork. Certain Console actions remain unavailable; documented float/text restrictions remain. Favorites, history and preferences stay in browser-local storage; website and `file://` storage are separate. Clipboard access depends on browser permissions; command text remains manually selectable.
-
-## Screenshots
-
-Previously prepared feature screenshots. The final Alpha 1 adds Console Setup to the upper navigation; these captures show the unchanged feature content.
-
-![Catalog entry](media/item-stats.png)
-![Recipes](media/recipes.png)
-
-## Notices
-
-Unofficial fan project, not affiliated with or endorsed by Hinterland Studio. The Long Dark and original game artwork/text belong to their respective rights holders. Third-party font and code notices are included in `docs/licenses/` and the downloadable runtime. This repository contains the public static runtime; private development sources, extracted game-source archives and research material are not published.
-
-Report issues through [GitHub Issues](https://github.com/XAHTEP-BNA/TLD-Companion/issues). Please include browser, language, window size and steps to reproduce; do not attach private saves or credentials.
+[Feedback/issues](https://github.com/XAHTEP-BNA/TLD-Companion/issues)

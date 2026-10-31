@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+review/
+01_AUTHORITIES/
+02_GAME_SOURCES/
+04_LOCAL_PRIVATE/
+06_BUILDS/
