@@ -1,39 +1,23 @@
-# TLD Companion — Beta
+# TLD Companion — Beta — what changed
 
-Changes since the previous public Alpha 1, including improvements developed in intermediate local builds.
+This update improves the previously released Beta. Its Guide and previously added items remain available.
 
-## What's New
+- All six original photo cards are now visible in the Guide, including normal browser windows, without covering the map or its controls.
+- The region gallery and open map share one large paper workspace that stays in place when switching views.
+- Region previews stay inside their paper frames, and region names fit in both languages.
+- Maps stay within the viewing area. Small maps are centered; enlarged maps can be dragged to their edges. Mouse-wheel zoom follows the pointer. Fit, physical 1:1, reset and Focus remain available.
+- Leaving Focus preserves the region, variant and chosen map view as the window size allows.
+- Favorites now keeps the title, description, stats, command and lower actions in fixed positions. Fewer stats no longer move the remaining ones around; no filler cells are added.
+- The project page, promotional poster, screenshots and instructions have been refreshed.
 
-- **Guide — Survivor’s Atlas.** A world map and 22 regional/transition cards. Original map images, available difficulty variants, cursor-centred zoom, pan, Fit, actual 1:1 and Focus Mode. Switch to Original to turn off the paper treatment.
-- **Aurora Terminal Favorites.** Items and commands with descriptions, real Key Facts and necessary inputs, quick Copy, full-entry Open and a carousel of saved entries.
-- **Console Setup** now has its own main-navigation entry. Chronicles has a separate Catalog tab and remains in development.
+## Available in Beta
 
-## Improvements
+523 items, bilingual RU/EN search, a console command builder, Favorites and Home history. The Guide has 23 cards including the world map: 44 map files representing 42 unique source sheets. Keeper’s Pass North and South open a shared sheet. Difficulty variants are not separate regions.
 
-- Home has two compact areas: the last map actually opened, and a recent item or command. Saved information restores when the application reopens.
-- Favorites arrange 0–6 facts according to the actual count. A single fact is centred; clothing retains its 2×3 composition. No vertical CRT scrolling.
-- Console uses a consistent journal composition for categories, index and detail. Existing parameters, input restrictions and Copy protections are preserved.
-- Refined RU/EN labels and icon proportions. Language changes do not reload the application.
+## Player notes
 
-## Fixes
+This is an unofficial Survival Mode companion, not a game mod. It does not execute commands in the game. Install the developer console separately using the in-app instructions. Some actions remain unavailable. Iron Road maps are not included. Source map labels may refer to older game versions. Complete coverage of every 2.58 change is not claimed.
 
-- World-map region names appear on hover or keyboard focus, without permanent labels covering the map’s embedded text.
-- Paper now adds a visible, restrained material treatment. Original shows the source colours without an artistic filter. Camera position and zoom are retained.
-- Repeated difficulty lines were removed from region-selector cards. Forsaken Airfield now uses its correct supplied atmospheric preview.
-- The Russian Guide label for Iron Road is «Железная дорога», a Companion interface translation rather than a claim about an official Russian DLC title.
-- Improved compact-window entry layouts, fact placement and saved-entry behaviour.
+Extract the entire ZIP and open index.html in Chrome or Edge on Windows PC. The app works offline. Favorites and history are stored in the current browser and do not sync between browsers or launch addresses. If copying is denied, the command can be selected manually.
 
-## Content
-
-There are now 523 item records. The public Alpha’s 506 records are preserved, with 17 source-confirmed 2.58 additions: Alice McLeod’s Journal 01 and Wax Cylinders 01–16. Original artwork and official RU/EN descriptions and narrative text are used. Cylinders are under Findings / Personal; no audio player was added.
-
-## Known Limitations
-
-- This does not claim complete 2.58 content support. Another 15 new candidates remain excluded pending source or applicability checks.
-- No Iron Road maps are included. Its category has an honest empty state. Embedded source-map labels and version markings remain; some maps reflect older game versions.
-- Keeper’s Pass North and South have separate cards opening the same original combined sheet.
-- Some console actions remain unavailable or restricted. Commands have not been tested live in the game; additional gameplay capabilities are not implied.
-- Complex command favorites may require opening the full entry. One older note still lacks original artwork.
-- Settings, favorites and history use the current browser’s local storage. Another browser or launch origin may have separate saved data.
-
-Maps: HokuOwl and Krueger; verified Steam links are available under Map Credits. Companion is an unofficial fan project, unaffiliated with Hinterland.
+Maps by HokuOwl and Krueger. The Long Dark belongs to Hinterland Studio. An unofficial project by XAHTEP, not affiliated with Hinterland.

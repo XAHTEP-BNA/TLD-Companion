@@ -1,32 +1,51 @@
+[**Русский**](README.md) · [English](README_EN.md)
+
+![TLD Companion — Beta: Атлас выживальщика](media/BETA_GITHUB_BANNER_RU.png)
+
 # TLD Companion — Beta
 
-Offline RU/EN companion for The Long Dark Survival Mode, by XAHTEP.
+**Твой проводник по острову Великого Медведя.** Бесплатный офлайн-помощник для The Long Dark: Survival Mode на Windows PC. Каталог, карты и нужные команды — рядом с игрой, на RU и EN.
 
-**Current recommended release: Beta.**
+[**Скачать Beta для Windows PC**](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip) · [**Открыть онлайн**](https://xahtep-bna.github.io/TLD-Companion/) · [Что изменилось](PATCH_NOTES_RU.md)
 
-- [Download Beta ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip)
-- [Open Companion in your browser](https://xahtep-bna.github.io/TLD-Companion/)
-- [Beta release and SHA-256](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/beta)
-- [Изменения RU](PATCH_NOTES_RU.md) · [Patch notes EN](PATCH_NOTES_EN.md)
+## Атлас выживальщика
 
-## Features
+Исследуй карту мира, выбирай регионы на доске атласа, приближай нужные места и раскрывай карту на весь экран. Варианты обычной сложности и «Незваного гостя» доступны там, где они есть в подборке. Переключай «Бумага / Оригинал» и возвращайся к последней открытой карте с Главной.
 
-- Bilingual Survival catalog: 523 item records, stable identities, original artwork and source-backed facts.
-- 59 Console entities with protected command generation and Copy.
-- Aurora Terminal Favorites and actual Item/Command/Map history on Home.
-- Survivor’s Atlas with original maps, zoom/pan, Focus and Paper/Original modes.
-- Offline Console Setup instructions and RU/EN interface.
+![Карта мира в Путеводителе](media/beta_ru_guide_world.png)
 
-Extract the entire ZIP and open `index.html` in Chrome or Edge. No server, installation or internet is required for local use. External documentation links open only on demand. Saves use the current browser’s local storage.
+![Галерея регионов](media/beta_ru_guide_regions.png)
 
-## Scope and credits
+## Предметы, консоль и Избранное
 
-Unofficial fan project, not affiliated with Hinterland. Baseline game data remain source-backed; 17 confirmed 2.58 items are admitted, but full 2.58 compatibility is not claimed. Some commands remain restricted and have not been runtime-tested. No Iron Road maps are included. Source maps retain their original legends and version labels.
+- **Каталог:** 523 предмета, оригинальные изображения, описания и применимые характеристики в журнале выживальщика.
+- **Поиск RU/EN:** находи предмет по русскому или английскому названию и открывай его карточку.
+- **Консоль:** 59 разделов команд; параметры доступных действий и готовая строка для копирования. Инструкция установки — в отдельном пункте навигации.
+- **Избранное:** держи нужные предметы и команды под рукой на Aurora Terminal.
+- **Главная:** две независимые истории недавно просмотренных предметов/команд и карт.
 
-Map credits: HokuOwl ([Steam](https://steamcommunity.com/profiles/76561198212232496), [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3255435617)) and Krueger ([Steam](https://steamcommunity.com/profiles/76561198054890338), [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2899955301)). Author links are also available offline in Guide. Font and dependency notices are included in `licenses/`.
+![Карточка предмета в каталоге](media/beta_ru_catalog.png)
 
-## Previous release
+![Раздел консольных команд](media/beta_ru_console.png)
 
-[Alpha 1 — historical release](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/alpha-1) remains available with its original tag/archive. Beta is the recommended version.
+![Избранное на Aurora Terminal](media/beta_ru_favorites6.png)
 
-[Feedback/issues](https://github.com/XAHTEP-BNA/TLD-Companion/issues)
+![Главная Companion](media/beta_ru_home.png)
+
+## Как запустить
+
+1. [Скачай ZIP Beta](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip).
+2. Полностью распакуй его в отдельную папку.
+3. Открой **index.html** в **Chrome или Edge**. Интернет не требуется.
+
+Можно пользоваться [онлайн-версией](https://xahtep-bna.github.io/TLD-Companion/) без скачивания. Избранное и история сохраняются в текущем браузере; данные разных браузеров и адресов не объединяются автоматически.
+
+## Перед использованием
+
+Companion не меняет игру и не выполняет команды за тебя. Консоль устанавливается отдельно. Некоторые команды недоступны; карты Железной дороги пока не включены. Подборка содержит 23 карточки карт, включая мир, и 42 уникальных исходных листа; отдельные карточки могут открывать общий лист. Полное покрытие 2.58 не заявляется. Это Beta: сообщай о найденных проблемах через [Issues](https://github.com/XAHTEP-BNA/TLD-Companion/issues).
+
+## Авторы и благодарности
+
+Companion — **XAHTEP**. Карты: **[HokuOwl](https://steamcommunity.com/sharedfiles/filedetails/?id=3255435617)** и **[Krueger](https://steamcommunity.com/sharedfiles/filedetails/?id=2899955301)**; подписи авторов сохранены, ссылки доступны и в справке атласа. The Long Dark и игровые материалы принадлежат **Hinterland Studio**. Это неофициальный фанатский проект, не связанный с Hinterland. Уведомления о шрифтах и библиотеках находятся в `licenses/` внутри ZIP.
+
+[Актуальный релиз и контрольные суммы](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/beta) · [Изменения на английском](PATCH_NOTES_EN.md)
