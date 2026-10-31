@@ -6,7 +6,7 @@
 
 **Your guide to Great Bear Island.** A free offline Windows PC companion for The Long Dark: Survival Mode. Items, maps and useful console commands, in Russian and English.
 
-[**Download Beta for Windows PC**](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip) · [**Open online**](https://xahtep-bna.github.io/TLD-Companion/) · [What changed](PATCH_NOTES_EN.md)
+[**Download Beta for Windows PC**](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip) · [**Open online**](https://xahtep-bna.github.io/TLD-Companion/) · [What changed](PATCH_NOTES_EN.md)
 
 ## Survivor’s Atlas
 
@@ -34,7 +34,7 @@ Explore the world map, choose a region from the atlas board, zoom into details a
 
 ## Get started
 
-1. [Download the Beta ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip).
+1. [Download the Beta ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip).
 2. Extract the entire archive into its own folder.
 3. Open **index.html** in **Chrome or Edge**. No internet connection is required.
 
@@ -48,4 +48,4 @@ Companion does not modify the game or run commands for you. Install the console 
 
 Companion by **XAHTEP**. Maps by **[HokuOwl](https://steamcommunity.com/sharedfiles/filedetails/?id=3255435617)** and **[Krueger](https://steamcommunity.com/sharedfiles/filedetails/?id=2899955301)**. Original credits remain on the maps; links are also available in the offline atlas. The Long Dark and game materials belong to **Hinterland Studio**. This is an unofficial fan project, not affiliated with Hinterland. Font and library notices are included in the ZIP’s `licenses/` folder.
 
-[Current release and checksums](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/beta) · [Russian patch notes](PATCH_NOTES_RU.md)
+[Current release and checksums](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest) · [Russian patch notes](PATCH_NOTES_RU.md)

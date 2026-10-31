@@ -4,7 +4,7 @@
 
 **Атлас выживальщика — твой проводник по острову Великого Медведя.**
 
-[Открыть онлайн](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip) · [English](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/README_EN.md)
+[Открыть онлайн](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip) · [English](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/README_EN.md)
 
 ## В этом обновлении / In this update
 

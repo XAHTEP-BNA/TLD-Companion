@@ -6,7 +6,7 @@
 
 **Твой проводник по острову Великого Медведя.** Бесплатный офлайн-помощник для The Long Dark: Survival Mode на Windows PC. Каталог, карты и нужные команды — рядом с игрой, на RU и EN.
 
-[**Скачать Beta для Windows PC**](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip) · [**Открыть онлайн**](https://xahtep-bna.github.io/TLD-Companion/) · [Что изменилось](PATCH_NOTES_RU.md)
+[**Скачать Beta для Windows PC**](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip) · [**Открыть онлайн**](https://xahtep-bna.github.io/TLD-Companion/) · [Что изменилось](PATCH_NOTES_RU.md)
 
 ## Атлас выживальщика
 
@@ -34,7 +34,7 @@
 
 ## Как запустить
 
-1. [Скачай ZIP Beta](https://github.com/XAHTEP-BNA/TLD-Companion/releases/download/beta/TLD-Companion-Beta.zip).
+1. [Скачай ZIP Beta](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip).
 2. Полностью распакуй его в отдельную папку.
 3. Открой **index.html** в **Chrome или Edge**. Интернет не требуется.
 
@@ -48,4 +48,4 @@ Companion не меняет игру и не выполняет команды �
 
 Companion — **XAHTEP**. Карты: **[HokuOwl](https://steamcommunity.com/sharedfiles/filedetails/?id=3255435617)** и **[Krueger](https://steamcommunity.com/sharedfiles/filedetails/?id=2899955301)**; подписи авторов сохранены, ссылки доступны и в справке атласа. The Long Dark и игровые материалы принадлежат **Hinterland Studio**. Это неофициальный фанатский проект, не связанный с Hinterland. Уведомления о шрифтах и библиотеках находятся в `licenses/` внутри ZIP.
 
-[Актуальный релиз и контрольные суммы](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/beta) · [Изменения на английском](PATCH_NOTES_EN.md)
+[Актуальный релиз и контрольные суммы](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest) · [Изменения на английском](PATCH_NOTES_EN.md)
