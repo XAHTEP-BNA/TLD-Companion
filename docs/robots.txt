@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /TLD-Companion/
+Sitemap: https://xahtep-bna.github.io/TLD-Companion/sitemap.xml

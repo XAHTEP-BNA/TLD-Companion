@@ -1,27 +1,27 @@
-# TLD Companion — Beta
+# TLD Companion v1.0.0
 
-![TLD Companion — Beta](https://raw.githubusercontent.com/XAHTEP-BNA/TLD-Companion/main/media/BETA_GITHUB_BANNER_RU.png)
+Бесплатный RU/EN-справочник для The Long Dark Survival Mode: предметы и характеристики, консольные команды, карты и обустройство.
 
-**Атлас выживальщика — твой проводник по острову Великого Медведя.**
+- 527 предметных записей и 59 записей консольных команд.
+- 849 карточек обустройства, 44 рецепта со всеми 134 переходами к материалам и инструментам.
+- Атлас карт с масштабированием, вариантами и отдельным режимом просмотра.
+- Поиск, Избранное и история; работа без интернета после распаковки.
 
-[Открыть онлайн](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion-Beta.zip) · [English](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/README_EN.md)
+Скачайте `TLD-Companion.zip`, полностью распакуйте и откройте `TLD-Companion/index.html` в Chrome или Edge. [Веб-версия](https://xahtep-bna.github.io/TLD-Companion/) · [Справка и скриншоты](https://github.com/XAHTEP-BNA/TLD-Companion#readme).
 
-## В этом обновлении / In this update
+Companion не запускает игровые команды и не устанавливает моды. Сохранённые данные зависят от браузера и адреса запуска. Полная проверка всех игровых эффектов на текущей версии игры не заявляется.
 
-- Все шесть фотокарточек видны в обычном окне; превью регионов помещаются в рамки.
-- Галерея и карта используют общий бумажный лист; улучшены увеличение, перемещение и возврат из развёрнутого просмотра.
-- В Избранном характеристики и действия занимают постоянные места.
+---
 
-All six photos are visible in normal windows. Region previews fit their frames; the gallery and map share one paper workspace. Map zoom, bounded panning and Focus return have been improved. Favorites keeps stats and actions in fixed positions.
+# TLD Companion v1.0.0
 
-[Полные изменения RU](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/PATCH_NOTES_RU.md) · [Full changes EN](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/PATCH_NOTES_EN.md)
+A free Russian/English reference for The Long Dark Survival Mode: items and stats, console commands, maps and furnishing.
 
-## Запуск / Launch
+- 527 item records and 59 console command entries.
+- 849 furnishing cards and 44 recipes with all 134 links to material and tool entries.
+- A map atlas with zoom, variants and focused viewing.
+- Search, Favorites and history; offline use after extracting the download.
 
-Полностью распакуйте ZIP и откройте **index.html** в Chrome или Edge на Windows PC. Интернет не нужен. / Extract the entire ZIP and open **index.html** in Chrome or Edge on Windows PC. Works offline.
+Download `TLD-Companion.zip`, extract it fully and open `TLD-Companion/index.html` in Chrome or Edge. [Web app](https://xahtep-bna.github.io/TLD-Companion/) · [Details and screenshots](https://github.com/XAHTEP-BNA/TLD-Companion#readme).
 
-Каталог: 523 предмета. Путеводитель: 23 карточки, включая карту мира; 44 файла, 42 уникальных листа. Консоль: 59 разделов команд. Это улучшение предыдущей Beta, а не новое добавление Путеводителя или прежних предметов.
-
-Карты Железной дороги не включены; некоторые команды недоступны. Полное покрытие 2.58 не заявляется. Избранное и история хранятся в текущем браузере. / Iron Road maps are not included; some commands are unavailable. Full 2.58 coverage is not claimed. Favorites and history stay in the current browser.
-
-Карты / Maps: HokuOwl, Krueger. Неофициальный фанатский проект XAHTEP. The Long Dark принадлежит / belongs to Hinterland Studio.
+Companion does not execute game commands or install mods. Saved data is browser- and origin-dependent. Full gameplay verification on the current game version is not claimed.
