@@ -1,27 +1,27 @@
 # TLD Companion v1.0.0
 
-Бесплатный RU/EN-справочник для The Long Dark Survival Mode: предметы и характеристики, консольные команды, карты и обустройство.
+Твой проводник по острову Великого Медведя.
 
-- 527 предметных записей и 59 записей консольных команд.
-- 849 карточек обустройства, 44 рецепта со всеми 134 переходами к материалам и инструментам.
-- Атлас карт с масштабированием, вариантами и отдельным режимом просмотра.
-- Поиск, Избранное и история; работа без интернета после распаковки.
+Справочник для The Long Dark: Survival Mode с предметами, картами, рецептами обустройства и подготовкой консольных команд. Ищите на русском или английском, сохраняйте нужные записи в Избранное и возвращайтесь к недавно просмотренным картам на Главной.
 
-Скачайте `TLD-Companion.zip`, полностью распакуйте и откройте `TLD-Companion/index.html` в Chrome или Edge. [Веб-версия](https://xahtep-bna.github.io/TLD-Companion/) · [Справка и скриншоты](https://github.com/XAHTEP-BNA/TLD-Companion#readme).
+[Открыть веб-версию](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать TLD-Companion.zip](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip) · [Подробнее о Companion](https://github.com/XAHTEP-BNA/TLD-Companion#readme)
 
-Companion не запускает игровые команды и не устанавливает моды. Сохранённые данные зависят от браузера и адреса запуска. Полная проверка всех игровых эффектов на текущей версии игры не заявляется.
+Для автономного запуска полностью распакуйте ZIP и откройте `TLD-Companion/index.html` в Google Chrome или Microsoft Edge. Карты и изображения входят в архив. Companion не выполняет команды в игре; для них нужны совместимые моды. Избранное и настройки сохраняются локально и не синхронизируются между браузерами и копиями приложения.
 
----
+## English
 
-# TLD Companion v1.0.0
+Your guide to Great Bear Island.
 
-A free Russian/English reference for The Long Dark Survival Mode: items and stats, console commands, maps and furnishing.
+A companion for The Long Dark: Survival Mode with items, maps, furnishing recipes and console command tools. Search in English or Russian, save useful entries to Favorites and return to recent maps from Home.
 
-- 527 item records and 59 console command entries.
-- 849 furnishing cards and 44 recipes with all 134 links to material and tool entries.
-- A map atlas with zoom, variants and focused viewing.
-- Search, Favorites and history; offline use after extracting the download.
+[Open the web version](https://xahtep-bna.github.io/TLD-Companion/) · [Download TLD-Companion.zip](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip) · [Explore Companion](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/README_EN.md)
 
-Download `TLD-Companion.zip`, extract it fully and open `TLD-Companion/index.html` in Chrome or Edge. [Web app](https://xahtep-bna.github.io/TLD-Companion/) · [Details and screenshots](https://github.com/XAHTEP-BNA/TLD-Companion#readme).
+For offline use, extract the whole ZIP and open `TLD-Companion/index.html` in Google Chrome or Microsoft Edge. Maps and artwork are included. Companion does not execute commands in the game; compatible mods are required for those features. Favorites and settings are stored locally and do not sync between browsers or application copies.
 
-Companion does not execute game commands or install mods. Saved data is browser- and origin-dependent. Full gameplay verification on the current game version is not claimed.
+## SHA-256
+
+`TLD-Companion.zip`
+
+```text
+c90785cebdb42f2c522aa5d750939e4d74c5ea6722f6d4ff18b67b065ae1e35e
+```
