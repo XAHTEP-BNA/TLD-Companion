@@ -4,7 +4,7 @@
 
 <p align="center"><em>Твой проводник по острову Великого Медведя.</em></p>
 
-Справочник для The Long Dark: Survival Mode. Найдите нужный предмет, посмотрите карту, проверьте рецепт или подготовьте консольную команду, пока ваше выживание продолжается. Companion работает в браузере и доступен для использования без интернета.
+Справочник для The Long Dark: Survival Mode. Найдите нужный предмет, посмотрите карту, проверьте рецепт или подготовьте консольную команду во время игры. Companion работает в браузере и доступен для использования без интернета.
 
 <p align="center">
 <a href="https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip"><img src="PRESENTATION_ASSETS/presentation-v1-1/cta_ru_download.webp" alt="Скачать Companion: автономная версия" width="250" height="64"></a>
