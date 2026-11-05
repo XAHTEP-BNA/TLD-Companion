@@ -1,13 +1,10 @@
 {
-  "product": "TLD Companion by XAHTEP",
-  "version": "1.0.0",
-  "buildDate": "2026-11-04",
-  "sourceBaseline": "BP2 dc35ab342b3aaf7a17713c4e384dbb7af1f478cef7cc74241562d24b3715f242",
-  "gameSourceTarget": "Survival2.59/189140S",
-  "runtimeGameVerified": false,
+  "version": "1.0.1",
+  "game": "Survival 2.59 /189140 S",
   "items": 527,
+  "furnishing_cards": 849,
+  "furnishing_objects": 862,
   "commands": 59,
   "forms": 105,
-  "furnishingCards": 849,
-  "furnishingObjects": 862
+  "runtime_game_tests": false
 }

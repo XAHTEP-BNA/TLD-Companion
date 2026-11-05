@@ -17,6 +17,14 @@ A reference companion for The Long Dark: Survival Mode. Look up an item, check a
 <img src="PRESENTATION_ASSETS/presentation-v1-1/lang_en_active.webp" alt="English: current language" width="52" height="36">
 </p>
 
+
+## Version 1.0.1
+
+Supplemental item sections now use larger text and internal scrolling. Effects, side effects, recipes and related-item links are more consistent. Returning from a linked entry restores the section and scroll position.
+
+Phones use the same interface in landscape with browser zoom. Portrait displays a localized rotation screen. Both Desolation Point maps use the HokuOwl 1.04 originals; their Game 2.58 source label and credits are preserved.
+
+
 ## Explore Companion
 
 <p align="center">

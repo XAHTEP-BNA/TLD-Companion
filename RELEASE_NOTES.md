@@ -1,27 +1,29 @@
-# TLD Companion v1.0.0
+# TLD Companion v1.0.1
 
-Твой проводник по острову Великого Медведя.
+[Открыть Companion](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать автономный ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip)
 
-Справочник для The Long Dark: Survival Mode с предметами, картами, рецептами обустройства и подготовкой консольных команд. Ищите на русском или английском, сохраняйте нужные записи в Избранное и возвращайтесь к недавно просмотренным картам на Главной.
+## Русский
 
-[Открыть веб-версию](https://xahtep-bna.github.io/TLD-Companion/) · [Скачать TLD-Companion.zip](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip) · [Подробнее о Companion](https://github.com/XAHTEP-BNA/TLD-Companion#readme)
+- Более читаемые игровые карточки: крупный текст, последовательные таблицы и внутренняя прокрутка дополнительных разделов.
+- Единое оформление эффектов, побочных эффектов, рецептов, ингредиентов и связанных предметов с оригинальными иконками.
+- Возврат по связанным записям сохраняет раздел и позицию прокрутки. Убраны избыточные стрелки и повторяющиеся вкладки.
+- Добавлены утверждённые характеристики с явным базисом упаковки, таблетки или 1 кг. Респиратор размещён в «Одежда / Аксессуары».
+- Сохранён мобильный Desktop Mirror. Добавлен атмосферный экран поворота RU/EN; исправлено первое нажатие сложности карты после pinch/pan.
+- Обе карты Зоны запустения обновлены Owner-исходниками HokuOwl 1.04. Их оригинальная атрибуция и подпись Game 2.58 сохранены.
 
-Для автономного запуска полностью распакуйте ZIP и откройте `TLD-Companion/index.html` в Google Chrome или Microsoft Edge. Карты и изображения входят в архив. Companion не выполняет команды в игре; для них нужны совместимые моды. Избранное и настройки сохраняются локально и не синхронизируются между браузерами и копиями приложения.
+Полностью распакуйте ZIP и откройте `TLD-Companion/index.html` в Chrome или Edge. Приложение работает без сети. Избранное и настройки остаются локальными в браузере. Companion не выполняет команды в игре.
 
 ## English
 
-Your guide to Great Bear Island.
+[Open Companion](https://xahtep-bna.github.io/TLD-Companion/) · [Download the offline ZIP](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip)
 
-A companion for The Long Dark: Survival Mode with items, maps, furnishing recipes and console command tools. Search in English or Russian, save useful entries to Favorites and return to recent maps from Home.
+- More readable item details, consistent tables and internal scrolling for supplemental sections.
+- Unified effects, side effects, recipes, ingredients and related-item rows with original artwork.
+- Linked-entry navigation restores the section and scroll position. Redundant arrows and duplicate tabs have been removed.
+- Approved Key Facts explicitly identify the pack, pill or 1 kg basis. The Respirator is under Clothing / Accessories.
+- Desktop Mirror is retained, with a bilingual portrait entry screen and a fix for the first map difficulty tap after pinch/pan.
+- Both Desolation Point maps use the Owner-supplied HokuOwl 1.04 originals, preserving their credits and Game 2.58 label.
 
-[Open the web version](https://xahtep-bna.github.io/TLD-Companion/) · [Download TLD-Companion.zip](https://github.com/XAHTEP-BNA/TLD-Companion/releases/latest/download/TLD-Companion.zip) · [Explore Companion](https://github.com/XAHTEP-BNA/TLD-Companion/blob/main/README_EN.md)
+Extract the entire ZIP and open `TLD-Companion/index.html` in Chrome or Edge. The app works offline. Favorites and preferences are stored locally in the browser. Companion does not execute commands in the game.
 
-For offline use, extract the whole ZIP and open `TLD-Companion/index.html` in Google Chrome or Microsoft Edge. Maps and artwork are included. Companion does not execute commands in the game; compatible mods are required for those features. Favorites and settings are stored locally and do not sync between browsers or application copies.
-
-## SHA-256
-
-`TLD-Companion.zip`
-
-```text
-c90785cebdb42f2c522aa5d750939e4d74c5ea6722f6d4ff18b67b065ae1e35e
-```
+The previous 1.0.0 release remains available as history. No new gameplay runtime verification or Safari/Firefox certification is claimed.
