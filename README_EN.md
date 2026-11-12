@@ -2,6 +2,8 @@
 
 <h1 align="center">TLD Companion by XAHTEP</h1>
 
+<p align="center">v1.1.0</p>
+
 <p align="center"><em>Your guide to Great Bear Island.</em></p>
 
 A reference companion for The Long Dark: Survival Mode. Look up an item, check a map, plan a crafting project or prepare a console command while you play. Use Companion in your browser or download it for offline use.
@@ -17,12 +19,6 @@ A reference companion for The Long Dark: Survival Mode. Look up an item, check a
 <img src="PRESENTATION_ASSETS/presentation-v1-1/lang_en_active.webp" alt="English: current language" width="52" height="36">
 </p>
 
-
-## Version 1.0.1
-
-Supplemental item sections now use larger text and internal scrolling. Effects, side effects, recipes and related-item links are more consistent. Returning from a linked entry restores the section and scroll position.
-
-Phones use the same interface in landscape with browser zoom. Portrait displays a localized rotation screen. Both Desolation Point maps use the HokuOwl 1.04 originals; their Game 2.58 source label and credits are preserved.
 
 
 ## Explore Companion
@@ -69,7 +65,7 @@ Search by a Russian or English name, part of a name or a known command. Open an 
 
 The item catalog takes the form of an open journal. Choose a category and section, then turn through the item index. Opening an entry keeps neighboring items on the left page so you can switch between them without returning to the index.
 
-The right page shows original artwork, a description and relevant facts, such as weight, warmth or tool properties. Related variants share a card with a variant selector. Additional pages contain available usage information and related items. Notes and other written finds can be read with page controls.
+The right page shows original artwork, a description and relevant facts, such as weight, warmth or tool properties. Related variants share a card with a variant selector. Additional pages contain available usage information and related items. Notes and journals show their full text directly in the entry, with internal scrolling. Verified locations include links to the Wiki and regional maps.
 
 Use the star to save an entry to Favorites. Where a console command is available, it appears at the bottom of the card beside Copy.
 
@@ -101,7 +97,7 @@ For example, a skill entry lets you choose a level and copy the command. Require
 
 Open the world map, a region or a transition zone. Choose an area from its preview, then pan and zoom to inspect a route. You can fit the map to the workspace, view its original scale or use focused viewing mode.
 
-Some regions include separate regular and Interloper maps. Interactive marks on the world map open the corresponding region. The Guide credits page lists map authors and links to their guides. Iron Road maps have not yet been added.
+Some regions include separate regular and Interloper maps. Interactive marks on the world map open the corresponding region. The Guide credits page lists map authors and links to their guides. The Iron Road section includes regular and Interloper maps of Port Remnant. Original credits and version labels are preserved on the maps.
 
 ![Regional map with zoom controls and a variant selector](PRESENTATION_ASSETS/en_map.webp)
 
@@ -147,7 +143,7 @@ Companion itself does not need to be installed in the game folder. Mods are only
 2. Extract the entire archive to a permanent folder.
 3. Open `TLD-Companion/index.html` in Google Chrome or Microsoft Edge.
 
-Maps, artwork and fonts are included, so browsing Companion does not require internet access. External links open when you choose them and need a connection. You can also use the [web version](https://xahtep-bna.github.io/TLD-Companion/) without downloading. Companion is designed for Windows PC.
+Maps, artwork and fonts are included, so browsing Companion does not require internet access. External links open when you choose them and need a connection. You can also use the [web version](https://xahtep-bna.github.io/TLD-Companion/) without downloading. Companion is designed for Windows PC. Phones use Desktop Mirror in landscape orientation with browser zoom available.
 
 ## Important information
 
