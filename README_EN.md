@@ -2,7 +2,11 @@
 
 <h1 align="center">TLD Companion by XAHTEP</h1>
 
-<p align="center">v1.1.0</p>
+<p align="center">v1.4.0</p>
+
+The Console includes feat and Steam achievement search, skill benefits and selectable scenes. The Atlas can copy a coordinate command for a point on a calibrated map.
+
+[Release notes](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/v1.4.0)
 
 <p align="center"><em>Your guide to Great Bear Island.</em></p>
 
@@ -89,7 +93,7 @@ Spawning furnishing objects requires a compatible SafehouseCustomizationPlus set
 
 Prepare commands for skills, animals, character status, afflictions, the world and maps. Choose an entry and an action, fill in its parameters and check the finished command. Entries with a single action skip the extra selection.
 
-For example, a skill entry lets you choose a level and copy the command. Required fields are marked, and invalid input prevents copying an incomplete or incorrect line. Unavailable actions do not offer an active Copy button.
+For example, a skill entry lets you choose a level and copy the command. The command becomes available to copy after its parameters pass validation. Unavailable actions do not offer an active Copy button.
 
 ![Skill entry with a level selector and prepared command](PRESENTATION_ASSETS/en_console.webp)
 

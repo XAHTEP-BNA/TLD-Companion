@@ -1,0 +1,10 @@
+{
+  "name": "TLD Companion by XAHTEP",
+  "version": "1.4.0",
+  "entry": "index.html",
+  "script": {
+    "path": "app.js",
+    "sha256": "e497f9bbca15a303b46684cdde5e4de753a35a9a8be13ef5830d49ae0b7c5e05"
+  },
+  "stylesheet": "assets/style-CDdhmEf0.css"
+}
