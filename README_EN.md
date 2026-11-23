@@ -2,11 +2,11 @@
 
 <h1 align="center">TLD Companion by XAHTEP</h1>
 
-<p align="center">v1.4.0</p>
+<p align="center">v1.4.1</p>
 
 The Console includes feat and Steam achievement search, skill benefits and selectable scenes. The Atlas can copy a coordinate command for a point on a calibrated map.
 
-[Release notes](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/v1.4.0)
+[Document scrolling fix in 1.4.1](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/v1.4.1)
 
 <p align="center"><em>Your guide to Great Bear Island.</em></p>
 

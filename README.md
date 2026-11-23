@@ -2,11 +2,11 @@
 
 <h1 align="center">TLD Companion by XAHTEP</h1>
 
-<p align="center">v1.4.0</p>
+<p align="center">v1.4.1</p>
 
 В Консоли доступны поиск подвигов и достижений Steam, преимущества навыков и выбор подтверждённых сцен. В Атласе можно скопировать координатную команду для точки на откалиброванной карте.
 
-[Что нового в 1.4.0](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/v1.4.0)
+[Исправление прокрутки документов в 1.4.1](https://github.com/XAHTEP-BNA/TLD-Companion/releases/tag/v1.4.1)
 
 <p align="center"><em>Твой проводник по острову Великого Медведя.</em></p>
 
